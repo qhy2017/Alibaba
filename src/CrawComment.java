@@ -13,6 +13,7 @@ public class CrawComment {
 
 	public static void main(String args[]) {
 		//修改成功********************************************************************************
+		//git好用9u9089089hkhkl
 		Scanner cin = new Scanner(System.in) ; 
 		System.out.println("請輸入商家ID:") ; 
 		String shopid = cin.next() ; 
